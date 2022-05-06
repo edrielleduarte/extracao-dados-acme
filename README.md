@@ -7,6 +7,11 @@ e inserindo as informações em uma planilha geral e também em planilhas indivi
        Informações necessarias: O bot esta com login e senha na qual deixei de treinamento, qualquer coisa, só alterar
       a variavel de argumento do projeto e a senha na pagina pois esta com segurança. Caso prefira, pode exceutar com email que esta
       no projeto pois como informei, é email é de treinamento.
+      
+   
+   <b>Dicas:</b> confira se está deslogado do site e não tenha nenhuma aba aberta referente ao mesmo e confira as informações também da imagem a seguir:
+       
+   ![info](https://user-images.githubusercontent.com/80603255/167060400-65ee30bb-4805-4e95-9235-35fffc33ffab.jpg)
 
 
 ## Etapas
