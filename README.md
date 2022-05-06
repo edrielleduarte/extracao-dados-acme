@@ -9,7 +9,7 @@ e inserindo as informações em uma planilha geral e também em planilhas indivi
       no projeto pois como informei, é email é de treinamento.
       
    
-   <b>Dicas:</b> confira se está deslogado do site e não tenha nenhuma aba aberta referente ao mesmo e confira as informações também apos realizar login, fazer o procedimento da imagem a seguir:
+   <b>Dicas:</b> confira se está deslogado do site e não tenha nenhuma aba aberta referente ao mesmo e confira as informações também apos realizar login, fazer o procedimento da imagem a seguir para que as informações apareça para ser extraidas:
        
    ![info](https://user-images.githubusercontent.com/80603255/167060400-65ee30bb-4805-4e95-9235-35fffc33ffab.jpg)
 
